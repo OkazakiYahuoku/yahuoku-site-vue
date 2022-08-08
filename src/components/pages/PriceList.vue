@@ -65,163 +65,141 @@
                   <td class="th_pref"> <span>離島</span><br> </td>
                 </tr>
                 <tr>
-                  <td rowspan="1" class="th02" width="200px">SS</td>
-                  <td rowspan="2" style="vertical-align: inherit; font-size: 16px;"><span>個人宛て</span><br>法人宛て<br>どちらも同額</td>
-                  <td>1035</td>
-                  <td>1050</td>
-                  <td>1050</td>
-                  <td>1200</td>
-                  <td>1230</td>
-                  <td>1230</td>
-                  <td>1230</td>
-                  <td>1290</td>
-                  <td>1290</td>
-                  <td>1620</td>
-                  <td>1680</td>
-                  <td>2415</td>
-                  <td rowspan="16" style="vertical-align: inherit;">要問合わせ</td>
-                  <td rowspan="16" style="vertical-align: inherit;">要問合わせ</td>
+                  <td rowspan="4" style="vertical-align: inherit; font-size: 16px;"><span>個人宛て</span><br>法人宛て<br>どちらも可能</td>
+                  <td rowspan="1" class="th02" width="200px">ネコポス</td>
+                  <td colspan="14">全国一律送料無料</td>
                 </tr>
                 <tr>
-                  <td rowspan="1" class="th02" width="200px">S</td>
-                  <td>2580</td>
-                  <td>2685</td>
-                  <td>2685</td>
-                  <td>2730</td>
-                  <td>3150</td>
-                  <td>3150</td>
-                  <td>3045</td>
-                  <td>3420</td>
-                  <td>3570</td>
-                  <td>3885</td>
-                  <td>4305</td>
-                  <td>5460</td>
+                  <td rowspan="1" class="th02" width="200px">小物SS</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>750</td>
+                  <td>1000</td>
+                  <td>1000</td>
+                  <td>1350</td>
+                  <td rowspan="11" style="vertical-align: inherit;">要問合わせ</td>
+                  <td rowspan="11" style="vertical-align: inherit;">要問合わせ</td>
                 </tr>
                 <tr>
-                  <td rowspan="2" class="th02" width="200px">M</td>
-                  <td>法人宛て送料</td>
+                  <td rowspan="1" class="th02" width="200px">小物S</td>
+                  <td>1300</td>
+                  <td>1300</td>
+                  <td>1500</td>
+                  <td>1500</td>
+                  <td>1500</td>
+                  <td>1500</td>
+                  <td>1500</td>
+                  <td>1600</td>
+                  <td>1600</td>
                   <td>1800</td>
-                  <td>1950</td>
-                  <td>1950</td>
-                  <td>2250</td>
-                  <td>2400</td>
-                  <td>2550</td>
-                  <td>2250</td>
-                  <td>2700</td>
-                  <td>2850</td>
-                  <td>3150</td>
-                  <td>3600</td>
-                  <td>3900</td>
+                  <td>1800</td>
+                  <td>2300</td>
                 </tr>
                 <tr>
-                  <td>個人宛て送料</td>
-                  <td>3630</td>
-                  <td>3735</td>
-                  <td>3675</td>
-                  <td>3735</td>
-                  <td>4470</td>
-                  <td>4515</td>
-                  <td>4305</td>
-                  <td>4890</td>
-                  <td>5205</td>
-                  <td>5730</td>
-                  <td>6465</td>
-                  <td>8295</td>
-                </tr>
-                <tr>
-                  <td rowspan="2" class="th02" width="200px">L</td>
-                  <td>法人宛て送料</td>
-                  <td>2400</td>
-                  <td>2550</td>
-                  <td>2700</td>
-                  <td>3450</td>
-                  <td>3450</td>
-                  <td>3750</td>
-                  <td>3450</td>
-                  <td>4050</td>
-                  <td>4350</td>
-                  <td>5100</td>
-                  <td>5850</td>
-                  <td>6600</td>
-                </tr>
-                <tr >
-                  <td>個人宛て送料</td>
-                  <td>5730</td>
-                  <td>5835</td>
-                  <td>5730</td>
-                  <td>5835</td>
-                  <td>7095</td>
-                  <td>7200</td>
-                  <td>6825</td>
-                  <td>7875</td>
-                  <td>8400</td>
-                  <td>9405</td>
-                  <td>10710</td>
-                  <td>14070</td>
-                </tr>
-                <tr>
-                  <td rowspan="2" class="th02" width="200px">2L</td>
-                  <td>法人宛て送料</td>
-                  <td>2700</td>
+                  <td rowspan="1" class="th02" width="200px">小物M</td>
+                  <td>2760</td>
+                  <td>2800</td>
                   <td>3000</td>
-                  <td>3150</td>
-                  <td>3900</td>
-                  <td>4050</td>
-                  <td>4350</td>
-                  <td>3900</td>
-                  <td>4650</td>
-                  <td>4950</td>
-                  <td>5850</td>
-                  <td>6750</td>
-                  <td>7650</td>
-                </tr>
-                <tr >
-                  <td>個人宛て送料</td>
-                  <td colspan="12" style="vertical-align: inherit;">要問合わせ</td>
+                  <td>3200</td>
+                  <td>3280</td>
+                  <td>3280</td>
+                  <td>3280</td>
+                  <td>3440</td>
+                  <td>3440</td>
+                  <td>4320</td>
+                  <td>4480</td>
+                  <td>6440</td>
                 </tr>
                 <tr>
-                  <td rowspan="2" class="th02" width="200px">3L</td>
-                  <td>法人宛て送料</td>
-                  <td>3000</td>
-                  <td>3300</td>
-                  <td>3450</td>
-                  <td>4350</td>
-                  <td>4650</td>
-                  <td>4950</td>
-                  <td>4350</td>
-                  <td>5400</td>
-                  <td>5700</td>
-                  <td>6750</td>
-                  <td>7950</td>
-                  <td>9000</td>
-                </tr>
-                <tr >
-                  <td>個人宛て送料</td>
-                  <td colspan="12" style="vertical-align: inherit;">要問合わせ</td>
-                </tr>
-                <tr>
-                  <td rowspan="2" class="th02" width="200px">4L</td>
-                  <td>法人宛て送料</td>
+                  <td rowspan="6" style="vertical-align: inherit; font-size: 16px;">法人宛または<br>運送会社営業所どめ</td>
+                  <td rowspan="1" class="th02" width="200px">大型S</td>
+                  <td>3200</td>
+                  <td>3100</td>
+                  <td>3200</td>
+                  <td>3800</td>
+                  <td>3900</td>
+                  <td>4100</td>
+                  <td>3800</td>
+                  <td>4300</td>
                   <td>4500</td>
-                  <td>4950</td>
-                  <td>5250</td>
-                  <td>6750</td>
-                  <td>7050</td>
-                  <td>7800</td>
-                  <td>6750</td>
-                  <td>8400</td>
-                  <td>9000</td>
-                  <td>10950</td>
-                  <td>12900</td>
-                  <td>14700</td>
-                </tr>
-                <tr >
-                  <td>個人宛て送料</td>
-                  <td colspan="12" style="vertical-align: inherit;">要問合わせ</td>
+                  <td>5200</td>
+                  <td>5900</td>
+                  <td>7500</td>
                 </tr>
                 <tr>
-                  <td rowspan="2" class="th02" width="200px">T</td>
-                  <td colspan="13">要問い合わせ</td>
+                  <td rowspan="1" class="th02" width="200px">大型M</td>
+                  <td>4800</td>
+                  <td>5100</td>
+                  <td>5400</td>
+                  <td>6500</td>
+                  <td>6700</td>
+                  <td>7200</td>
+                  <td>6500</td>
+                  <td>7700</td>
+                  <td>8100</td>
+                  <td>9500</td>
+                  <td>11000</td>
+                  <td>12300</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" class="th02" width="200px">大型L</td>
+                  <td>6500</td>
+                  <td>5500</td>
+                  <td>6000</td>
+                  <td>8300</td>
+                  <td>7600</td>
+                  <td>9200</td>
+                  <td>7300</td>
+                  <td>9000</td>
+                  <td>9400</td>
+                  <td>11000</td>
+                  <td>12000</td>
+                  <td>20900</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" class="th02" width="200px">E/Gパレット</td>
+                  <td>5000</td>
+                  <td>5100</td>
+                  <td>5200</td>
+                  <td>5800</td>
+                  <td>5800</td>
+                  <td>6000</td>
+                  <td>5800</td>
+                  <td>6200</td>
+                  <td>6400</td>
+                  <td>7000</td>
+                  <td>7500</td>
+                  <td>8100</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" class="th02" width="200px">アクスルパレット/ダンボールパレット</td>
+                  <td>3800</td>
+                  <td>3900</td>
+                  <td>4000</td>
+                  <td>4600</td>
+                  <td>4600</td>
+                  <td>4800</td>
+                  <td>4600</td>
+                  <td>5000</td>
+                  <td>5300</td>
+                  <td>5800</td>
+                  <td>6400</td>
+                  <td>6900</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" class="th02" width="200px">T（送料問合わせ商品）</td>
+                  <td colspan="12">要問合わせ</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" width="200px">お引き取り限定・配送致しません</td>
+                  <td rowspan="1" class="th02" width="200px">X（お引き取り限定商品）</td>
+                  <td colspan="12">要問合わせ</td>
                 </tr>
             </table>
           </v-container>
